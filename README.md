@@ -1,4 +1,5 @@
 # TypeScriptSyntaxLab_2023
+## C#
 ```C#
 public class Dog
 {
@@ -27,7 +28,7 @@ public string GetRandomBreed(string[] breeds)
 }
 ```
 
-
+##JavaScript
 ```JavaScript
 class Dog {
     constructor(name, breed) {
@@ -46,6 +47,7 @@ class Dog {
 }
 ```
 
+## TypeScript
 ```TypeScript
 class Dog {
   name: string;
