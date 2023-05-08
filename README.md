@@ -18,13 +18,22 @@ public class Dog
 	}
 }
 
-string[] dogBreeds = new string[] { "Labrador", "Golden Retriever", "Bulldog" };
+class Program {
+  static void Main(string[] args) {
+    string[] dogBreeds = {"Labrador", "Golden Retriever", "Bulldog"};
 
-public string GetRandomBreed(string[] breeds)
-{
-	Random random = new Random();
-	int index = random.Next(breeds.Length);
-	return breeds[index];
+    string GetRandomBreed(string[] breeds) {
+      Random rand = new Random();
+      int index = rand.Next(breeds.Length);
+      return breeds[index];
+    }
+
+    Dog dog = new Dog("Rover", "Beagle");
+    Console.WriteLine(dog.Name);
+    Console.WriteLine(dog.Breed);
+    Console.WriteLine(dog.Bark());
+    Console.WriteLine(GetRandomBreed(dogBreeds));
+  }
 }
 ```
 
@@ -45,6 +54,12 @@ class Dog {
   let index = Math.floor(Math.random() * breeds.length);
   return breeds[index];
 }
+
+const dog = new Dog("Rover", "Beagle");
+console.log(dog.name);
+console.log(dog.breed);
+console.log(dog.bark());
+console.log(getRandomBreed(dogBreeds));
 ```
 
 ## TypeScript
@@ -73,6 +88,6 @@ function GetRandomBreed(breeds: string[]): string {
 const dog: Dog = new Dog("Rover", "Beagle");
 console.log(dog.name);
 console.log(dog.breed);
-console.log(dog.bark());
-console.log(GetRandomBreeds(breeds));
+console.log(dog.Bark());
+console.log(GetRandomBreeds(dogBreeds));
 ```
