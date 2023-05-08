@@ -28,7 +28,7 @@ public string GetRandomBreed(string[] breeds)
 }
 ```
 
-##JavaScript
+## JavaScript
 ```JavaScript
 class Dog {
     constructor(name, breed) {
