@@ -69,4 +69,10 @@ function GetRandomBreed(breeds: string[]): string {
   let index: number = Math.floor(Math.random() * breeds.length);
   return breeds[index];
 }
+
+const dog: Dog = new Dog("Rover", "Beagle");
+console.log(dog.name);
+console.log(dog.breed);
+console.log(dog.bark());
+console.log(GetRandomBreeds(breeds));
 ```
