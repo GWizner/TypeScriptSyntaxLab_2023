@@ -1,7 +1,5 @@
 # TypeScriptSyntaxLab_2023
--------------------------------------------
-C#
--------------------------------------------
+```C#
 public class Dog
 {
 	public string Name { get; set; }
@@ -27,9 +25,10 @@ public string GetRandomBreed(string[] breeds)
 	int index = random.Next(breeds.Length);
 	return breeds[index];
 }
--------------------------------------------
-JavaScript
--------------------------------------------
+```
+
+
+```JavaScript
 class Dog {
     constructor(name, breed) {
       this.name = name;
@@ -45,9 +44,9 @@ class Dog {
   let index = Math.floor(Math.random() * breeds.length);
   return breeds[index];
 }
--------------------------------------------
-TypeScript
--------------------------------------------
+```
+
+```TypeScript
 class Dog {
   name: string;
   breed: string;
@@ -68,3 +67,4 @@ function GetRandomBreed(breeds: string[]): string {
   let index: number = Math.floor(Math.random() * breeds.length);
   return breeds[index];
 }
+```
