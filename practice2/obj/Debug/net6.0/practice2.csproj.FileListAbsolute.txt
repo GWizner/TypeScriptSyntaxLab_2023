@@ -1,0 +1,15 @@
+C:\Users\Gregory Wizner\source\repos\practice2\bin\Debug\net6.0\practice2.exe
+C:\Users\Gregory Wizner\source\repos\practice2\bin\Debug\net6.0\practice2.deps.json
+C:\Users\Gregory Wizner\source\repos\practice2\bin\Debug\net6.0\practice2.runtimeconfig.json
+C:\Users\Gregory Wizner\source\repos\practice2\bin\Debug\net6.0\practice2.dll
+C:\Users\Gregory Wizner\source\repos\practice2\bin\Debug\net6.0\practice2.pdb
+C:\Users\Gregory Wizner\source\repos\practice2\obj\Debug\net6.0\practice2.csproj.AssemblyReference.cache
+C:\Users\Gregory Wizner\source\repos\practice2\obj\Debug\net6.0\practice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregory Wizner\source\repos\practice2\obj\Debug\net6.0\practice2.AssemblyInfoInputs.cache
+C:\Users\Gregory Wizner\source\repos\practice2\obj\Debug\net6.0\practice2.AssemblyInfo.cs
+C:\Users\Gregory Wizner\source\repos\practice2\obj\Debug\net6.0\practice2.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Wizner\source\repos\practice2\obj\Debug\net6.0\practice2.dll
+C:\Users\Gregory Wizner\source\repos\practice2\obj\Debug\net6.0\refint\practice2.dll
+C:\Users\Gregory Wizner\source\repos\practice2\obj\Debug\net6.0\practice2.pdb
+C:\Users\Gregory Wizner\source\repos\practice2\obj\Debug\net6.0\practice2.genruntimeconfig.cache
+C:\Users\Gregory Wizner\source\repos\practice2\obj\Debug\net6.0\ref\practice2.dll

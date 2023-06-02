@@ -1,0 +1,15 @@
+C:\Users\Gregory Wizner\source\repos\Dummy1\bin\Debug\net6.0\Dummy1.exe
+C:\Users\Gregory Wizner\source\repos\Dummy1\bin\Debug\net6.0\Dummy1.deps.json
+C:\Users\Gregory Wizner\source\repos\Dummy1\bin\Debug\net6.0\Dummy1.runtimeconfig.json
+C:\Users\Gregory Wizner\source\repos\Dummy1\bin\Debug\net6.0\Dummy1.dll
+C:\Users\Gregory Wizner\source\repos\Dummy1\bin\Debug\net6.0\Dummy1.pdb
+C:\Users\Gregory Wizner\source\repos\Dummy1\obj\Debug\net6.0\Dummy1.csproj.AssemblyReference.cache
+C:\Users\Gregory Wizner\source\repos\Dummy1\obj\Debug\net6.0\Dummy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregory Wizner\source\repos\Dummy1\obj\Debug\net6.0\Dummy1.AssemblyInfoInputs.cache
+C:\Users\Gregory Wizner\source\repos\Dummy1\obj\Debug\net6.0\Dummy1.AssemblyInfo.cs
+C:\Users\Gregory Wizner\source\repos\Dummy1\obj\Debug\net6.0\Dummy1.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Wizner\source\repos\Dummy1\obj\Debug\net6.0\Dummy1.dll
+C:\Users\Gregory Wizner\source\repos\Dummy1\obj\Debug\net6.0\refint\Dummy1.dll
+C:\Users\Gregory Wizner\source\repos\Dummy1\obj\Debug\net6.0\Dummy1.pdb
+C:\Users\Gregory Wizner\source\repos\Dummy1\obj\Debug\net6.0\Dummy1.genruntimeconfig.cache
+C:\Users\Gregory Wizner\source\repos\Dummy1\obj\Debug\net6.0\ref\Dummy1.dll

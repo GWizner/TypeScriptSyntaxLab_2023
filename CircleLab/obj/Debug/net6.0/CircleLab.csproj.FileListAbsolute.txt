@@ -1,0 +1,15 @@
+C:\Users\wizne\source\repos\CircleLab\bin\Debug\net6.0\CircleLab.exe
+C:\Users\wizne\source\repos\CircleLab\bin\Debug\net6.0\CircleLab.deps.json
+C:\Users\wizne\source\repos\CircleLab\bin\Debug\net6.0\CircleLab.runtimeconfig.json
+C:\Users\wizne\source\repos\CircleLab\bin\Debug\net6.0\CircleLab.dll
+C:\Users\wizne\source\repos\CircleLab\bin\Debug\net6.0\CircleLab.pdb
+C:\Users\wizne\source\repos\CircleLab\obj\Debug\net6.0\CircleLab.csproj.AssemblyReference.cache
+C:\Users\wizne\source\repos\CircleLab\obj\Debug\net6.0\CircleLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wizne\source\repos\CircleLab\obj\Debug\net6.0\CircleLab.AssemblyInfoInputs.cache
+C:\Users\wizne\source\repos\CircleLab\obj\Debug\net6.0\CircleLab.AssemblyInfo.cs
+C:\Users\wizne\source\repos\CircleLab\obj\Debug\net6.0\CircleLab.csproj.CoreCompileInputs.cache
+C:\Users\wizne\source\repos\CircleLab\obj\Debug\net6.0\CircleLab.dll
+C:\Users\wizne\source\repos\CircleLab\obj\Debug\net6.0\refint\CircleLab.dll
+C:\Users\wizne\source\repos\CircleLab\obj\Debug\net6.0\CircleLab.pdb
+C:\Users\wizne\source\repos\CircleLab\obj\Debug\net6.0\CircleLab.genruntimeconfig.cache
+C:\Users\wizne\source\repos\CircleLab\obj\Debug\net6.0\ref\CircleLab.dll

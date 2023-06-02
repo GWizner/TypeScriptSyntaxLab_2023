@@ -1,0 +1,15 @@
+C:\Users\Gregory Wizner\source\repos\sumArray\bin\Debug\net6.0\sumArray.exe
+C:\Users\Gregory Wizner\source\repos\sumArray\bin\Debug\net6.0\sumArray.deps.json
+C:\Users\Gregory Wizner\source\repos\sumArray\bin\Debug\net6.0\sumArray.runtimeconfig.json
+C:\Users\Gregory Wizner\source\repos\sumArray\bin\Debug\net6.0\sumArray.dll
+C:\Users\Gregory Wizner\source\repos\sumArray\bin\Debug\net6.0\sumArray.pdb
+C:\Users\Gregory Wizner\source\repos\sumArray\obj\Debug\net6.0\sumArray.csproj.AssemblyReference.cache
+C:\Users\Gregory Wizner\source\repos\sumArray\obj\Debug\net6.0\sumArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregory Wizner\source\repos\sumArray\obj\Debug\net6.0\sumArray.AssemblyInfoInputs.cache
+C:\Users\Gregory Wizner\source\repos\sumArray\obj\Debug\net6.0\sumArray.AssemblyInfo.cs
+C:\Users\Gregory Wizner\source\repos\sumArray\obj\Debug\net6.0\sumArray.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Wizner\source\repos\sumArray\obj\Debug\net6.0\sumArray.dll
+C:\Users\Gregory Wizner\source\repos\sumArray\obj\Debug\net6.0\refint\sumArray.dll
+C:\Users\Gregory Wizner\source\repos\sumArray\obj\Debug\net6.0\sumArray.pdb
+C:\Users\Gregory Wizner\source\repos\sumArray\obj\Debug\net6.0\sumArray.genruntimeconfig.cache
+C:\Users\Gregory Wizner\source\repos\sumArray\obj\Debug\net6.0\ref\sumArray.dll

@@ -1,0 +1,15 @@
+C:\Users\wizne\source\repos\ClassNotes_Strings\bin\Debug\net6.0\ClassNotes_Strings.exe
+C:\Users\wizne\source\repos\ClassNotes_Strings\bin\Debug\net6.0\ClassNotes_Strings.deps.json
+C:\Users\wizne\source\repos\ClassNotes_Strings\bin\Debug\net6.0\ClassNotes_Strings.runtimeconfig.json
+C:\Users\wizne\source\repos\ClassNotes_Strings\bin\Debug\net6.0\ClassNotes_Strings.dll
+C:\Users\wizne\source\repos\ClassNotes_Strings\bin\Debug\net6.0\ClassNotes_Strings.pdb
+C:\Users\wizne\source\repos\ClassNotes_Strings\obj\Debug\net6.0\ClassNotes_Strings.csproj.AssemblyReference.cache
+C:\Users\wizne\source\repos\ClassNotes_Strings\obj\Debug\net6.0\ClassNotes_Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wizne\source\repos\ClassNotes_Strings\obj\Debug\net6.0\ClassNotes_Strings.AssemblyInfoInputs.cache
+C:\Users\wizne\source\repos\ClassNotes_Strings\obj\Debug\net6.0\ClassNotes_Strings.AssemblyInfo.cs
+C:\Users\wizne\source\repos\ClassNotes_Strings\obj\Debug\net6.0\ClassNotes_Strings.csproj.CoreCompileInputs.cache
+C:\Users\wizne\source\repos\ClassNotes_Strings\obj\Debug\net6.0\ClassNotes_Strings.dll
+C:\Users\wizne\source\repos\ClassNotes_Strings\obj\Debug\net6.0\refint\ClassNotes_Strings.dll
+C:\Users\wizne\source\repos\ClassNotes_Strings\obj\Debug\net6.0\ClassNotes_Strings.pdb
+C:\Users\wizne\source\repos\ClassNotes_Strings\obj\Debug\net6.0\ClassNotes_Strings.genruntimeconfig.cache
+C:\Users\wizne\source\repos\ClassNotes_Strings\obj\Debug\net6.0\ref\ClassNotes_Strings.dll

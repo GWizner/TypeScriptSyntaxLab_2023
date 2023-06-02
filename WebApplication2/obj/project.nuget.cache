@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "K06jf9nbukW/d2vOzlMCHZ6rTMwTBFYtZ/kiEm4T3qFpt07YkRD7r5R6tEC8zozjhsBcLnPGg0lfYSnJtwhjtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gregory Wizner\\source\\repos\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gregory Wizner\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Gregory Wizner\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gregory Wizner\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Gregory Wizner\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

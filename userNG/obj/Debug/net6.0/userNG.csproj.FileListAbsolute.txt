@@ -1,0 +1,15 @@
+C:\Users\Gregory Wizner\source\repos\userNG\bin\Debug\net6.0\userNG.exe
+C:\Users\Gregory Wizner\source\repos\userNG\bin\Debug\net6.0\userNG.deps.json
+C:\Users\Gregory Wizner\source\repos\userNG\bin\Debug\net6.0\userNG.runtimeconfig.json
+C:\Users\Gregory Wizner\source\repos\userNG\bin\Debug\net6.0\userNG.dll
+C:\Users\Gregory Wizner\source\repos\userNG\bin\Debug\net6.0\userNG.pdb
+C:\Users\Gregory Wizner\source\repos\userNG\obj\Debug\net6.0\userNG.csproj.AssemblyReference.cache
+C:\Users\Gregory Wizner\source\repos\userNG\obj\Debug\net6.0\userNG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregory Wizner\source\repos\userNG\obj\Debug\net6.0\userNG.AssemblyInfoInputs.cache
+C:\Users\Gregory Wizner\source\repos\userNG\obj\Debug\net6.0\userNG.AssemblyInfo.cs
+C:\Users\Gregory Wizner\source\repos\userNG\obj\Debug\net6.0\userNG.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Wizner\source\repos\userNG\obj\Debug\net6.0\userNG.dll
+C:\Users\Gregory Wizner\source\repos\userNG\obj\Debug\net6.0\refint\userNG.dll
+C:\Users\Gregory Wizner\source\repos\userNG\obj\Debug\net6.0\userNG.pdb
+C:\Users\Gregory Wizner\source\repos\userNG\obj\Debug\net6.0\userNG.genruntimeconfig.cache
+C:\Users\Gregory Wizner\source\repos\userNG\obj\Debug\net6.0\ref\userNG.dll

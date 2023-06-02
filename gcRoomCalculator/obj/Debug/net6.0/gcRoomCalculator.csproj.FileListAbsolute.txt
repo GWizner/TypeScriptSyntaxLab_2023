@@ -1,0 +1,15 @@
+C:\Users\Gregory Wizner\source\repos\gcRoomCalculator\bin\Debug\net6.0\gcRoomCalculator.exe
+C:\Users\Gregory Wizner\source\repos\gcRoomCalculator\bin\Debug\net6.0\gcRoomCalculator.deps.json
+C:\Users\Gregory Wizner\source\repos\gcRoomCalculator\bin\Debug\net6.0\gcRoomCalculator.runtimeconfig.json
+C:\Users\Gregory Wizner\source\repos\gcRoomCalculator\bin\Debug\net6.0\gcRoomCalculator.dll
+C:\Users\Gregory Wizner\source\repos\gcRoomCalculator\bin\Debug\net6.0\gcRoomCalculator.pdb
+C:\Users\Gregory Wizner\source\repos\gcRoomCalculator\obj\Debug\net6.0\gcRoomCalculator.csproj.AssemblyReference.cache
+C:\Users\Gregory Wizner\source\repos\gcRoomCalculator\obj\Debug\net6.0\gcRoomCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregory Wizner\source\repos\gcRoomCalculator\obj\Debug\net6.0\gcRoomCalculator.AssemblyInfoInputs.cache
+C:\Users\Gregory Wizner\source\repos\gcRoomCalculator\obj\Debug\net6.0\gcRoomCalculator.AssemblyInfo.cs
+C:\Users\Gregory Wizner\source\repos\gcRoomCalculator\obj\Debug\net6.0\gcRoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Wizner\source\repos\gcRoomCalculator\obj\Debug\net6.0\gcRoomCalculator.dll
+C:\Users\Gregory Wizner\source\repos\gcRoomCalculator\obj\Debug\net6.0\refint\gcRoomCalculator.dll
+C:\Users\Gregory Wizner\source\repos\gcRoomCalculator\obj\Debug\net6.0\gcRoomCalculator.pdb
+C:\Users\Gregory Wizner\source\repos\gcRoomCalculator\obj\Debug\net6.0\gcRoomCalculator.genruntimeconfig.cache
+C:\Users\Gregory Wizner\source\repos\gcRoomCalculator\obj\Debug\net6.0\ref\gcRoomCalculator.dll

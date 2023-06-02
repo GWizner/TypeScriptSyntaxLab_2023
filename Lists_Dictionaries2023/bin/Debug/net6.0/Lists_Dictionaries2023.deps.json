@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lists_Dictionaries2023/1.0.0": {
+        "runtime": {
+          "Lists_Dictionaries2023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lists_Dictionaries2023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

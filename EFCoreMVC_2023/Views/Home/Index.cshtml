@@ -1,0 +1,6 @@
+﻿@model List<AppUser>
+
+@foreach(AppUser appUser in Model)
+{
+    <p>@appUser.FirstName, @appUser.EmailAddress</p>
+}

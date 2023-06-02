@@ -1,0 +1,14 @@
+<h1 class="page-title">Blog</h1>
+
+<ng-container *ngIf="articles.length">
+    <div class="article-container" *ngFor="let item of articles">
+        <h2>{{item.title}}</h2>
+        <p class="article-credits">{{item.author}}, <span>{{item.date | date }}</span></p>
+        <p class="article-excerpt">{{item.excerpt}}</p>
+        <button>Read more</button>
+    </div>
+</ng-container>
+
+<ng-container *ngIf="!articles.length">
+    Sorry.
+</ng-container>

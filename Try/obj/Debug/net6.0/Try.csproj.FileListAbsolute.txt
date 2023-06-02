@@ -1,0 +1,15 @@
+C:\Users\Gregory Wizner\source\repos\Try\bin\Debug\net6.0\Try.exe
+C:\Users\Gregory Wizner\source\repos\Try\bin\Debug\net6.0\Try.deps.json
+C:\Users\Gregory Wizner\source\repos\Try\bin\Debug\net6.0\Try.runtimeconfig.json
+C:\Users\Gregory Wizner\source\repos\Try\bin\Debug\net6.0\Try.dll
+C:\Users\Gregory Wizner\source\repos\Try\bin\Debug\net6.0\Try.pdb
+C:\Users\Gregory Wizner\source\repos\Try\obj\Debug\net6.0\Try.csproj.AssemblyReference.cache
+C:\Users\Gregory Wizner\source\repos\Try\obj\Debug\net6.0\Try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregory Wizner\source\repos\Try\obj\Debug\net6.0\Try.AssemblyInfoInputs.cache
+C:\Users\Gregory Wizner\source\repos\Try\obj\Debug\net6.0\Try.AssemblyInfo.cs
+C:\Users\Gregory Wizner\source\repos\Try\obj\Debug\net6.0\Try.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Wizner\source\repos\Try\obj\Debug\net6.0\Try.dll
+C:\Users\Gregory Wizner\source\repos\Try\obj\Debug\net6.0\refint\Try.dll
+C:\Users\Gregory Wizner\source\repos\Try\obj\Debug\net6.0\Try.pdb
+C:\Users\Gregory Wizner\source\repos\Try\obj\Debug\net6.0\Try.genruntimeconfig.cache
+C:\Users\Gregory Wizner\source\repos\Try\obj\Debug\net6.0\ref\Try.dll

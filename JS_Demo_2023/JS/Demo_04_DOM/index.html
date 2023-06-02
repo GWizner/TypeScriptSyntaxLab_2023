@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang ="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>JS Demo 04</title>
+    </head>
+    <body>
+        <div class="article">
+            <h1 id="title">DOM Intro</h1>
+            <h3 class="subtitle">Document Object Moidel</h3>
+            <p>An interface which allows programs and scripts to dynamically access and update the content, style,
+                 and structure of a document.</p>
+            <ul>
+                <li>Lorem ipsum dolor sit.</li>
+                <li>Quia alias neque tempore!</li>
+                <li>Exercitationem libero est esse.</li>
+                <li>Ut nisi in ex?</li>
+                <li>Molestiae cumque eos perspiciatis!</li>
+            </ul>
+        </div>
+
+        <script>
+            //document.write("Whoops");
+            
+            let p = document.createElement('p');
+            console.log(p);
+            p.innerText = "New text!";
+            document.body.appendChild(p);
+
+            let title = document.getElementById('title');
+            console.log(title);
+            title.innerText = "DOM";
+
+            let subtitle = document.getElementsByTagName('h3');
+            subtitle[0].innerText = "DOM2";
+
+            //let subtitle = document.getElementsByClassName();
+            let subtitles = document.querySelectorAll(".subtitle");
+            console.log(subtitles);
+            subtitles[0].innerText = "DOM3";
+
+            //let article = document.querySelectorAll(".article");
+            //console.log(article);
+
+            
+        </script>;
+    </body>
+</html>

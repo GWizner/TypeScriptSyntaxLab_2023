@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZVuvh5ajO44wuh4P/ixzqWgKP/HJa8lb0VTecAG+TCLNh+gNkDgtOypq3n0j118uQKqdZHyWs8y3eljo46l2+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wizne\\source\\repos\\Web_Api_Intro_2023\\Web_Api_Intro_2023.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wizne\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\wizne\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\wizne\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\wizne\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\wizne\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\wizne\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

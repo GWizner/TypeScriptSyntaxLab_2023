@@ -1,0 +1,15 @@
+C:\Users\Gregory Wizner\source\repos\iQ\bin\Debug\net6.0\iQ.exe
+C:\Users\Gregory Wizner\source\repos\iQ\bin\Debug\net6.0\iQ.deps.json
+C:\Users\Gregory Wizner\source\repos\iQ\bin\Debug\net6.0\iQ.runtimeconfig.json
+C:\Users\Gregory Wizner\source\repos\iQ\bin\Debug\net6.0\iQ.dll
+C:\Users\Gregory Wizner\source\repos\iQ\bin\Debug\net6.0\iQ.pdb
+C:\Users\Gregory Wizner\source\repos\iQ\obj\Debug\net6.0\iQ.csproj.AssemblyReference.cache
+C:\Users\Gregory Wizner\source\repos\iQ\obj\Debug\net6.0\iQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregory Wizner\source\repos\iQ\obj\Debug\net6.0\iQ.AssemblyInfoInputs.cache
+C:\Users\Gregory Wizner\source\repos\iQ\obj\Debug\net6.0\iQ.AssemblyInfo.cs
+C:\Users\Gregory Wizner\source\repos\iQ\obj\Debug\net6.0\iQ.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Wizner\source\repos\iQ\obj\Debug\net6.0\iQ.dll
+C:\Users\Gregory Wizner\source\repos\iQ\obj\Debug\net6.0\refint\iQ.dll
+C:\Users\Gregory Wizner\source\repos\iQ\obj\Debug\net6.0\iQ.pdb
+C:\Users\Gregory Wizner\source\repos\iQ\obj\Debug\net6.0\iQ.genruntimeconfig.cache
+C:\Users\Gregory Wizner\source\repos\iQ\obj\Debug\net6.0\ref\iQ.dll

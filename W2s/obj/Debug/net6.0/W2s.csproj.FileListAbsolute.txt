@@ -1,0 +1,15 @@
+C:\Users\Gregory Wizner\source\repos\W2s\bin\Debug\net6.0\W2s.exe
+C:\Users\Gregory Wizner\source\repos\W2s\bin\Debug\net6.0\W2s.deps.json
+C:\Users\Gregory Wizner\source\repos\W2s\bin\Debug\net6.0\W2s.runtimeconfig.json
+C:\Users\Gregory Wizner\source\repos\W2s\bin\Debug\net6.0\W2s.dll
+C:\Users\Gregory Wizner\source\repos\W2s\bin\Debug\net6.0\W2s.pdb
+C:\Users\Gregory Wizner\source\repos\W2s\obj\Debug\net6.0\W2s.csproj.AssemblyReference.cache
+C:\Users\Gregory Wizner\source\repos\W2s\obj\Debug\net6.0\W2s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregory Wizner\source\repos\W2s\obj\Debug\net6.0\W2s.AssemblyInfoInputs.cache
+C:\Users\Gregory Wizner\source\repos\W2s\obj\Debug\net6.0\W2s.AssemblyInfo.cs
+C:\Users\Gregory Wizner\source\repos\W2s\obj\Debug\net6.0\W2s.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Wizner\source\repos\W2s\obj\Debug\net6.0\W2s.dll
+C:\Users\Gregory Wizner\source\repos\W2s\obj\Debug\net6.0\refint\W2s.dll
+C:\Users\Gregory Wizner\source\repos\W2s\obj\Debug\net6.0\W2s.pdb
+C:\Users\Gregory Wizner\source\repos\W2s\obj\Debug\net6.0\W2s.genruntimeconfig.cache
+C:\Users\Gregory Wizner\source\repos\W2s\obj\Debug\net6.0\ref\W2s.dll

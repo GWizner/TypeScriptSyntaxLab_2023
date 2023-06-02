@@ -1,0 +1,15 @@
+C:\Users\wizne\source\repos\Debug_Exceptions2023\bin\Debug\net6.0\Debug_Exceptions2023.exe
+C:\Users\wizne\source\repos\Debug_Exceptions2023\bin\Debug\net6.0\Debug_Exceptions2023.deps.json
+C:\Users\wizne\source\repos\Debug_Exceptions2023\bin\Debug\net6.0\Debug_Exceptions2023.runtimeconfig.json
+C:\Users\wizne\source\repos\Debug_Exceptions2023\bin\Debug\net6.0\Debug_Exceptions2023.dll
+C:\Users\wizne\source\repos\Debug_Exceptions2023\bin\Debug\net6.0\Debug_Exceptions2023.pdb
+C:\Users\wizne\source\repos\Debug_Exceptions2023\obj\Debug\net6.0\Debug_Exceptions2023.csproj.AssemblyReference.cache
+C:\Users\wizne\source\repos\Debug_Exceptions2023\obj\Debug\net6.0\Debug_Exceptions2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wizne\source\repos\Debug_Exceptions2023\obj\Debug\net6.0\Debug_Exceptions2023.AssemblyInfoInputs.cache
+C:\Users\wizne\source\repos\Debug_Exceptions2023\obj\Debug\net6.0\Debug_Exceptions2023.AssemblyInfo.cs
+C:\Users\wizne\source\repos\Debug_Exceptions2023\obj\Debug\net6.0\Debug_Exceptions2023.csproj.CoreCompileInputs.cache
+C:\Users\wizne\source\repos\Debug_Exceptions2023\obj\Debug\net6.0\Debug_Exceptions2023.dll
+C:\Users\wizne\source\repos\Debug_Exceptions2023\obj\Debug\net6.0\refint\Debug_Exceptions2023.dll
+C:\Users\wizne\source\repos\Debug_Exceptions2023\obj\Debug\net6.0\Debug_Exceptions2023.pdb
+C:\Users\wizne\source\repos\Debug_Exceptions2023\obj\Debug\net6.0\Debug_Exceptions2023.genruntimeconfig.cache
+C:\Users\wizne\source\repos\Debug_Exceptions2023\obj\Debug\net6.0\ref\Debug_Exceptions2023.dll

@@ -1,0 +1,14 @@
+<ng-container *ngIf="users.length">
+    <table>
+        <tr>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>Email Address</th>
+        </tr>
+        <tr *ngFor="let user of users">
+            <td>{{user.firstName}}</td>
+            <td>{{user.lastName}}</td>
+            <td>{{user.emailAddress}}</td>
+        </tr>
+    </table>
+</ng-container>

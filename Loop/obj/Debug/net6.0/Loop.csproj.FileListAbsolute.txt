@@ -1,0 +1,15 @@
+C:\Users\Gregory Wizner\source\repos\Loop\bin\Debug\net6.0\Loop.exe
+C:\Users\Gregory Wizner\source\repos\Loop\bin\Debug\net6.0\Loop.deps.json
+C:\Users\Gregory Wizner\source\repos\Loop\bin\Debug\net6.0\Loop.runtimeconfig.json
+C:\Users\Gregory Wizner\source\repos\Loop\bin\Debug\net6.0\Loop.dll
+C:\Users\Gregory Wizner\source\repos\Loop\bin\Debug\net6.0\Loop.pdb
+C:\Users\Gregory Wizner\source\repos\Loop\obj\Debug\net6.0\Loop.csproj.AssemblyReference.cache
+C:\Users\Gregory Wizner\source\repos\Loop\obj\Debug\net6.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregory Wizner\source\repos\Loop\obj\Debug\net6.0\Loop.AssemblyInfoInputs.cache
+C:\Users\Gregory Wizner\source\repos\Loop\obj\Debug\net6.0\Loop.AssemblyInfo.cs
+C:\Users\Gregory Wizner\source\repos\Loop\obj\Debug\net6.0\Loop.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Wizner\source\repos\Loop\obj\Debug\net6.0\Loop.dll
+C:\Users\Gregory Wizner\source\repos\Loop\obj\Debug\net6.0\refint\Loop.dll
+C:\Users\Gregory Wizner\source\repos\Loop\obj\Debug\net6.0\Loop.pdb
+C:\Users\Gregory Wizner\source\repos\Loop\obj\Debug\net6.0\Loop.genruntimeconfig.cache
+C:\Users\Gregory Wizner\source\repos\Loop\obj\Debug\net6.0\ref\Loop.dll
